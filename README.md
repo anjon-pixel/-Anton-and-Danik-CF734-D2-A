@@ -1,5 +1,7 @@
 # -Anton-and-Danik-CF734-D2-A
-Codeforces Solution 
+Codeforces Solution
+
+
 #include<bits/stdc++.h>
 
 using namespace std;
